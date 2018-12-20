@@ -8,7 +8,7 @@ import java.awt.BorderLayout;
 import java.awt.event.*;
 import javax.swing.*;
 
-public class Login extends JFrame implements ActionListener{
+public class Login extends JFrame implements ActionListener{ //im testing this first the time!
 
     JLabel lIDnumber, lPasscode, lLogo, lDate, lTime, lTrack;
 	JLabel gapLogo, gapTime1, gapTime2, gapTimeNorth, gapLogoTrack1, gapLogoTrack2; //-> labels for gaps
